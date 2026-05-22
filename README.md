@@ -100,7 +100,7 @@ docs/         -> User & deployment documents
 
 # Architecture Diagram
 
-![Architecture](diagrams/architecture-diagram.jpg)
+![Architecture](diagrams/Architecture_Diagram.jpg)
 
 ---
 
